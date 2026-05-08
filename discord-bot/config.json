@@ -2,6 +2,6 @@
   "token": "",
   "clientId": "",
   "channelId": "",
-  "checkInterval": 60000,
+  "checkInterval": 180000,
   "products": {}
 }
